@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="br.com.jmary.home.HomeJApplet.jnlp">
+  <information>
+    <title>br.com.jmary.home.HomeJApplet</title>
+    <vendor>Oracle</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Desenvolvimento_de_Aplicacoes_para_a_Internet.jar" size="31069820" download="eager" />
+  </resources>
+<security>
+  <all-permissions/>
+</security>
+  <application-desc main-class="br.com.jmary.unidade_04_desenvolvimento_de_aplicacoes_para_a_internet.HomeJApplet"  name="br.com.jmary.home.HomeJApplet" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>
